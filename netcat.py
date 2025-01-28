@@ -1,8 +1,8 @@
 import paramiko
 
-#comman creditials 
-user = "ubuntu"
-password = "ubuntu"
+#comman credentials 
+user = "your_user_name"
+password = "your_password"
 
 #configure the diffrent servers
 configarutions = {
